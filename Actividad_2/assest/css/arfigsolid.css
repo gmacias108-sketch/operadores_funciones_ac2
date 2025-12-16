@@ -1,0 +1,104 @@
+header{
+    background-color: orange;
+    color: black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+
+}
+nav{
+    background-color: white;
+    width: 100%;
+   
+}
+
+.punto{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.punt{
+    list-style: none;
+    margin: 3px;
+    justify-content: space-evenly;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 20px;
+    text-transform: uppercase;
+    border: dashed;
+    border-color: orange;
+    background-color: rgb(252, 216, 148);
+}
+main{
+    background-color: rgb(239, 218, 164);
+    border-radius: 5px;
+    height: 1080px;
+    padding: 30px;
+    text-align: center;
+}
+
+
+
+footer{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.desayuno{
+    height: 200px;
+    border-radius: 5px;
+    border: solid;
+    border: dashed;
+    border-color: orange;
+    background-color: rgb(252, 216, 148);
+    margin: 10px;
+    text-transform: capitalize;
+}
+.almuerzo{
+    height: 200px;
+    border-radius: 5px;
+    border: solid;
+    border: dashed;
+    border-color: orange;
+    background-color: rgb(252, 216, 148);
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+.comida{
+    height: 200px;
+    border-radius: 5px;
+    border: solid;
+    border: dashed;
+    border-color: orange;
+    background-color: rgb(252, 216, 148);
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+.postres{
+    height: 200px;
+    border-radius: 5px;
+    border: solid;
+    border: dashed;
+    border-color: orange;
+    background-color: rgb(252, 216, 148);
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+.comidasr{
+    height: 200px;
+    border-radius: 5px;
+    border: solid;
+    border: dashed;
+    border-color: orange;
+    background-color: rgb(252, 216, 148);
+    margin: 10px;
+    text-transform: capitalize;
+}
